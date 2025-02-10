@@ -1,6 +1,3 @@
-# Inkoop_task_tejashwin
-simple UI with one input field that accepts only numbers using ReactJS
-
 # Number Checker
 A simple React application that allows users to enter a number and displays the next three even or odd numbers based on the input. The UI is styled with CSS, featuring a modern glassmorphic design.
 
